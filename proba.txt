@@ -4,3 +4,5 @@ proba tesco halozaton 1.0
 siker
 siker2
 Mennyire jó :D
+
+Linux próba
